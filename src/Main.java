@@ -1,6 +1,8 @@
+package src;
+
 public class Main {
     public static void main(String[] args) {
-    System.out.println("Hallo word");
+    System.out.println("Hej Emila");
 
     }
 }
